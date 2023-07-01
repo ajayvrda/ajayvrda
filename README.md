@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay Varada</h1>
-<h3 align="center">I consider myself an AIML enthusiast, research engineer and a student.</h3>
+<h3 align="center">I consider myself a AIML/DL enthusiast,research engineer, , and first and foremost, a student. I’m finishing up my BTech in Computer Science on the Data Science track at Keshav Memorial Institute of Technology.</h3>
 
 - 🔭 I’m currently working on **Breast Cancer Detection/Segmentation**
 
